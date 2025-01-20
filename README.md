@@ -1,4 +1,3 @@
-# amazon-static-home-page-clone
 <h1>Amazon Clone - Static Homepage</h1>
 <h2>Overview</h2>
 <p>This project is a static homepage clone of the <b>Amazon</b> website, created as part of my web development internship at <b>Indolike Company</b>. The goal was to replicate the look and feel of Amazon's homepage using modern web development technologies.</p>
